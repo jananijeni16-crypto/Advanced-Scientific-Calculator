@@ -33,7 +33,7 @@ Install the required library:
 
 Run the following command:
 
-`python calculator.py`
+`python scientific_calculator.py`
 
 ## Developed By
 **Janani B**
